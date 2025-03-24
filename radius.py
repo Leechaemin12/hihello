@@ -13,3 +13,8 @@ print("입력한 정수는:", n)
 width=40
 height=20
 print("area: ", width*height*1/2) 
+
+radius=11
+PI=3.142
+print("원의 둘레:",radius*2*PI)
+print("원의 면적:",radius*radius*PI)
