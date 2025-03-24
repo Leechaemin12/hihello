@@ -12,4 +12,4 @@ print("입력한 정수는:", n)
 
 width=40
 height=20
-print("area: ", width*height*1/2)
+print("area: ", width*height*1/2) 
